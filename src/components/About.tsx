@@ -1,1 +1,1 @@
-const About
+const About: React.FC
