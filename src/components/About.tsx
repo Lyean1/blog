@@ -1,1 +1,3 @@
-const About: React.FC
+const About: React.FC = () => {
+    
+}
