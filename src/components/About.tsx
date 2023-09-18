@@ -5,3 +5,5 @@ const About: React.FC = () => {
         </div>
     )
 }
+
+export
