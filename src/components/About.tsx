@@ -6,4 +6,4 @@ const About: React.FC = () => {
     )
 }
 
-export
+export default
