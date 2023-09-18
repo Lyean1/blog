@@ -1,7 +1,7 @@
 const About: React.FC = () => {
     return (
-        <div>
-            
+        <div className="about">
+
         </div>
     )
 }
